@@ -1,0 +1,12 @@
+FundMeTest:testAddsFunderToArrayOfFunder() (gas: 100198)
+FundMeTest:testFundFailedWithoutEnoughEth() (gas: 23094)
+FundMeTest:testFundUpdatesFundedDataStructure() (gas: 99814)
+FundMeTest:testMinimumDollarIsFive() (gas: 8445)
+FundMeTest:testOnlyOwnerCanWithdraw() (gas: 100079)
+FundMeTest:testOwnerIsMsgSender() (gas: 12526)
+FundMeTest:testPriceFeedVersionIsAccurate() (gas: 13665)
+FundMeTest:testWithDrawWithASingleFunder() (gas: 85743)
+FundMeTest:testWithdrawFromMultipleFunders() (gas: 681272)
+FundMeTest:testWithdrawFromMultipleFundersCheaper() (gas: 680800)   
+
+# Like 400 gas saved with the cheaper version
